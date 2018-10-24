@@ -1,0 +1,2 @@
+25 premiers de chaque class pour le training set
+25 derniers de chaque class pour le test set
